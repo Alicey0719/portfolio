@@ -1,18 +1,25 @@
 import Vue from 'vue'
-import BootstrapVue from 'bootstrap-vue' // added
+import BootstrapVue from 'bootstrap-vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import top from '@/components/top'
+import tech from '@/components/tech'
+
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 Vue.use(Router)
-Vue.use(BootstrapVue) // added
-
-import 'bootstrap/dist/css/bootstrap.css' // added
-import 'bootstrap-vue/dist/bootstrap-vue.css' // added
+Vue.use(BootstrapVue)
 
 export default new Router({
     routes: [{
-        path: '/',
-        name: 'HelloWorld',
-        component: HelloWorld
-    }]
+            path: '/',
+            name: 'Top',
+            component: top
+        },
+        {
+            path: '/tech',
+            name: 'tech',
+            component: tech
+        }
+    ]
 })
