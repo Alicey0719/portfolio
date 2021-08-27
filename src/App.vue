@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import $ from 'jquery'
 import mainHeader from './components/main_header'
 
 export default {
@@ -14,6 +15,7 @@ export default {
     mainHeader
   },
 }
+
 </script>
 
 <style>
