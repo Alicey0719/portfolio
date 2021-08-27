@@ -1,8 +1,8 @@
 <template>
 <div class="content-area container">
     <div class="row">
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -12,8 +12,8 @@
             </a>
         </div>
 
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -23,8 +23,8 @@
             </a>
         </div>
 
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -34,8 +34,8 @@
             </a>
         </div>
 
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -45,8 +45,8 @@
             </a>
         </div>
 
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -56,8 +56,8 @@
             </a>
         </div>
 
-        <div class="col">        
-            <a href="#">
+        <div class="col mt-5">        
+            <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
                     <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
