@@ -21,6 +21,4 @@ export default {
 
 </script>
 
-<style>
-@import 'css/main.css';
-</style>
+<style src="@/css/main.css"></style>
