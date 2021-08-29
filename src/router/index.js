@@ -6,6 +6,7 @@ import tech from '@/components/tech'
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import '@/css/main.css'
 
 Vue.use(Router)
 Vue.use(BootstrapVue)
