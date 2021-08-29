@@ -20,6 +20,11 @@ body {
     text-decoration: none;
 }
 
+.card {
+    margin: 1px;
+    margin-bottom: 10px;
+}
+
 .card-text {
     color: black;
     border: none;
