@@ -21,4 +21,4 @@ export default {
 
 </script>
 
-<style src="@/css/main.css"></style>
+<style src="@/css/main.css?=v1.1"></style>
