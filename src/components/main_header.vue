@@ -10,6 +10,9 @@
                 <li class="nav-item">
                     <router-link to="/tech" class='nav-link' active-class="active" exact>Tech</router-link>
                 </li>
+                <li class="nav-item">
+                    <router-link to="/terms" class='nav-link' active-class="active" exact>Terms</router-link>
+                </li>
             </ul>
             </div>
         </div>
