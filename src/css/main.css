@@ -25,6 +25,12 @@ body {
     margin-bottom: 10px;
 }
 
+.card-title {
+    color: black;
+    border: none;
+    font-weight: bold;
+}
+
 .card-text {
     color: black;
     border: none;

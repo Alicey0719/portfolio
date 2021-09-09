@@ -5,9 +5,10 @@
         <div class="col mt-5" v-for="item in products" :key="item.name" >        
             <a class="content-link" href="#">
                 <div class="card" style="width: 18rem;">
-                    <img src="https://alicey.dev/img/icon2.jpg" class="card-img-top" alt="...">
+                    <img v-bind:src="item.img" decoding="async" class="card-img-top" v-bind:alt="item.name">
                     <div class="card-body">
-                        <p class="card-text">{{item.name}}</p>
+                        <p class="card-title">{{item.name}}</p>
+                        <p class="card-text">{{item.dist}}</p>
                     </div>
                 </div>
             </a>
