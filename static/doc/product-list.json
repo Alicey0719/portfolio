@@ -1,13 +1,16 @@
 [{
     "name": "pro1",
     "img": "https://alicey.dev/img/icon2.jpg",
-    "dist": "aaa"
+    "dist": "aaa",
+    "url": "https://google.com"
 }, {
     "name": "pro2",
     "img": "https://alicey.dev/img/icon2.jpg",
-    "dist": "あああ"
+    "dist": "あああ",
+    "url": "https://google.com"
 }, {
     "name": "日本語てすと",
     "img": "https://alicey.dev/img/icon2.jpg",
-    "dist": "ちゃろー☆"
+    "dist": "ちゃろー☆",
+    "url": "https://google.com"
 }]
