@@ -1,6 +1,6 @@
 <template>
 <div class="content-area container">
-    <div class="row">
+    <div class="row  product">
 
         <div class="col mt-5" v-for="item in products" :key="item.name" >        
             <a class="content-link" target="_blank" v-bind:href="item.url">

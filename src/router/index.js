@@ -8,7 +8,8 @@ import tech from '@/components/tech'
 import terms from '@/components/terms'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import '@/css/main.css'
+import '@/assets/css/main.css'
+import '@/assets/css/bg-animation.css'
 
 Vue.use(Router)
 Vue.use(BootstrapVue)
