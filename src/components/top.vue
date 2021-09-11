@@ -8,6 +8,9 @@
                     <img v-bind:src="item.img" decoding="async" class="card-img-top" v-bind:alt="item.name">
                     <div class="card-body">
                         <p class="card-title">{{item.name}}</p>
+                        <p class="card-form">開発形態 : {{item.form}}</p>
+                        <p class="card-period">開発期間 : {{item.period}}</p>
+                        <div class="card-partition"></div>
                         <p class="card-text">{{item.dist}}</p>
                     </div>
                 </div>

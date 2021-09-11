@@ -26,14 +26,28 @@ body {
 }
 
 .card-title {
+    font-size: 20px;
     color: black;
     border: none;
     font-weight: bold;
 }
 
-.card-text {
+.card-text,
+.card-form,
+.card-period {
     color: black;
     border: none;
+    text-align: left;
+}
+
+.card-form,
+.card-period {
+    margin-bottom: 1px;
+}
+
+.card-partition {
+    border-bottom: 1px solid black;
+    margin-block: 8px;
 }
 
 .card:hover {
