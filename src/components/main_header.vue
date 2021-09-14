@@ -10,9 +10,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="#">Home</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="#">Tech</a>
-            </li>
+            </li> -->
             <li class="nav-item">
                 <a class="nav-link" href="#">Terms</a>
             </li>
