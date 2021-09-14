@@ -31,7 +31,7 @@ export default {
         async getProducts() {
             var url = '/static/doc/product-list.json'
             await this.axios.get(url).then(x => { this.products = x.data })
-            console.log(this.products)
+            //console.log(this.products)
         }
     },
     mounted(){
