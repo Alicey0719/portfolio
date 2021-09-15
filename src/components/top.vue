@@ -43,7 +43,7 @@ export default {
         }
     },
     mounted(){
-        this.getProducts()
+        this.getProducts();
     },
     computed: {
         filterProducts: function(){
@@ -53,7 +53,7 @@ export default {
                     res = res.filter(function(v){
                         return v.category == cat;
                     });
-                    console.log(res);
+                    //console.log(res);
                     return res;
                 }else{
                     return null;
