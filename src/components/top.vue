@@ -6,7 +6,7 @@
             <h2>Programming</h2>
         </div>
         <div class="row">
-            <div class="col mt-5" v-for="item in getProgrammings" :key="`programming-${item.name}`" >
+            <div class="col mt-5" v-for="item in filterProducts('programming')" :key="`programming-${item.name}`" >
                 <a class="content-link" target="_blank" v-bind:href="item.url">
                     <div class="card" style="width: 18rem;">
                         <img v-bind:src="item.img" decoding="async" class="card-img-top" v-bind:alt="item.name">
@@ -26,7 +26,7 @@
 
     </div>
 </div>
-</template>
+</template>ß
 
 
 <script>
@@ -46,16 +46,18 @@ export default {
         this.getProducts()
     },
     computed: {
-        getProgrammings: function(){
-            if (this.products != null){
-                let res = Array.from(this.products);
-                res = res.filter(function(v){
-                    return v.category === 'programming'
-                });
-                //console.log(res);
-                return res;
-            }else{
-                return null;
+        filterProducts: function(){
+            return function(cat){
+                if (this.products != null){
+                    let res = Array.from(this.products);
+                    res = res.filter(function(v){
+                        return v.category == cat;
+                    });
+                    console.log(res);
+                    return res;
+                }else{
+                    return null;
+                }
             }
         }
     }
