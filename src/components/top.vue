@@ -1,7 +1,6 @@
 <template>
 <div class="content-area container">
     <div class="row product">
-
         <div v-for="p in ['programming','server', 'movie', 'other']" :key="p">
             <div>
                 <h2>{{p}}</h2>
@@ -16,14 +15,13 @@
                                 <p class="card-form">開発形態 : {{item.form}}</p>
                                 <p class="card-period">開発期間 : {{item.period}}</p>
                                 <div class="card-partition"></div>
-                                <p class="card-text">{{item.dist}}</p>
+                                <p class="card-text">{{ brWrite(item.dist) }}</p>
                             </div>
                         </a>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 </template>
@@ -57,6 +55,14 @@ export default {
                 }else{
                     return null;
                 }
+            }
+        },
+        brWrite: function(){
+            return function(word){
+                console.log(word)
+                console.log(word.replace(/\\n/g, '\n'))
+                return word.replace(/\\n/g, '\n');
+                
             }
         }
     }
