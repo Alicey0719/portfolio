@@ -19,7 +19,7 @@
     "name": "【2次創作MV】Mili - Ga1ahad and Scientific Witchery",
     "img": "/static/doc/product-data/ga1a/thumbnail.png",
     "category": "movie",
-    "form": "チーム",
+    "form": "15名チーム",
     "period": "4ヶ月",
     "tech": "Ae, Ai, Ps, Cinema4D",
     "dist": "",
@@ -28,7 +28,7 @@
     "name": "PRIMAL RELATION OP",
     "img": "/static/doc/product-data/primal/thumbnail.png",
     "category": "movie",
-    "form": "チーム",
+    "form": "3名チーム",
     "period": "3ヶ月",
     "tech": "Ae, Ai, Ps, Cinema4D",
     "dist": "",
@@ -37,9 +37,57 @@
     "name": "なつとらんす",
     "img": "/static/doc/product-data/natsutoransu/thumbnail.jpg",
     "category": "other",
-    "form": "チーム",
+    "form": "3名チーム",
     "period": "1年半",
     "tech": "Editor, Ps, Ai etc...",
     "dist": "",
     "url": "https://alipro.alicey.dev/product/natsutoransu/"
+}, {
+    "name": "イベントPA",
+    "img": "/static/doc/product-data/kotonia-pa/thumbnail.jpg",
+    "category": "other",
+    "form": "チーム(20名程度)",
+    "period": "1日(準備1ヶ月程度)",
+    "tech": "PA",
+    "dist": ""
+}, {
+    "name": "生徒会室サーバリプレース",
+    "img": "/static/doc/product-data/seitokai-server/thumbnail.jpg",
+    "category": "server",
+    "form": "身内数名",
+    "period": "1日",
+    "tech": "WindowsServer",
+    "dist": ""
+}, {
+    "name": "音響機材リプレース",
+    "img": "/static/doc/product-data/arena-rep/thumbnail.JPG",
+    "category": "other",
+    "form": "数名チーム",
+    "period": "計3日(準備2ヶ月程度)",
+    "tech": "電気, 音響",
+    "dist": ""
+}, {
+    "name": "PCルームソフトウェア追加",
+    "img": "/static/doc/product-data/pcroom-rep/thumbnail.jpg",
+    "category": "other",
+    "form": "個人",
+    "period": "1日",
+    "tech": "Windows",
+    "dist": ""
+}, {
+    "name": "吹奏楽PA",
+    "img": "/static/doc/product-data/suibu-pa/thumbnail.JPG",
+    "category": "other",
+    "form": "チーム",
+    "period": "3日",
+    "tech": "PA",
+    "dist": ""
+}, {
+    "name": "ライブPA",
+    "img": "/static/doc/product-data/live-pa/thumbnail.jpg",
+    "category": "other",
+    "form": "チーム",
+    "period": "1日",
+    "tech": "PA",
+    "dist": ""
 }]
