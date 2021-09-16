@@ -1,65 +1,94 @@
 [{
-    "name": "pro1",
-    "img": "https://alicey.dev/img/icon2.jpg",
+    "name": "Portfolio",
+    "img": "/static/doc/product-data/portfolio/thumbnail.png",
     "category": "programming",
     "form": "個人",
-    "period": "2週間",
-    "dist": "aaa",
-    "url": "https://google.com"
+    "period": "3週間",
+    "tech": "Vue.js, Vercel",
+    "dist": ""
 }, {
-    "name": "pro3",
-    "img": "https://alicey.dev/img/icon2.jpg",
+    "name": "Sirius",
+    "img": "/static/doc/product-data/sirius/thumbnail.png",
+    "category": "programming",
+    "form": "設計:チーム, 開発:個人",
+    "period": "2週間(開発)",
+    "tech": "Ruby on Rails, Heroku",
+    "dist": "",
+    "url": "https://github.com/Alicey0719/sirius"
+}, {
+    "name": "【2次創作MV】Mili - Ga1ahad and Scientific Witchery",
+    "img": "/static/doc/product-data/ga1a/thumbnail.png",
     "category": "movie",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
+    "form": "15名チーム",
+    "period": "4ヶ月",
+    "tech": "Ae, Ai, Ps, Cinema4D",
+    "dist": "",
+    "url": "https://youtu.be/H6mIErniLYg"
 }, {
-    "name": "pro4",
-    "img": "https://alicey.dev/img/icon2.jpg",
-    "category": "programming",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
-}, {
-    "name": "pro5",
-    "img": "https://alicey.dev/img/icon2.jpg",
+    "name": "PRIMAL RELATION OP",
+    "img": "/static/doc/product-data/primal/thumbnail.png",
     "category": "movie",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
+    "form": "3名チーム",
+    "period": "3ヶ月",
+    "tech": "Ae, Ai, Ps, Cinema4D",
+    "dist": "",
+    "url": "https://youtu.be/sqLvPieFAvw"
 }, {
-    "name": "pro6",
-    "img": "https://alicey.dev/img/icon2.jpg",
-    "category": "programming",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
+    "name": "なつとらんす",
+    "img": "/static/doc/product-data/natsutoransu/thumbnail.jpg",
+    "category": "other",
+    "form": "3名チーム",
+    "period": "1年半~",
+    "tech": "Editor, Ps, Ai etc...",
+    "dist": "",
+    "url": "https://alipro.alicey.dev/product/natsutoransu/"
 }, {
-    "name": "pro7",
-    "img": "https://alicey.dev/img/icon2.jpg",
+    "name": "イベント運営, PA",
+    "img": "/static/doc/product-data/kotonia-pa/thumbnail.jpg",
+    "category": "other",
+    "form": "チーム(20名程度)",
+    "period": "1日(準備1ヶ月程度)",
+    "tech": "PA",
+    "dist": "",
+    "url": "https://www.jrtk.jp/cotoniorgarden/shinkawasaki/info/?p=2032"
+}, {
+    "name": "生徒会室サーバリプレース",
+    "img": "/static/doc/product-data/seitokai-server/thumbnail.jpg",
     "category": "server",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
+    "form": "身内数名",
+    "period": "1日",
+    "tech": "WindowsServer",
+    "dist": ""
 }, {
-    "name": "pro8",
-    "img": "https://alicey.dev/img/icon2.jpg",
-    "category": "programming",
-    "form": "個人",
-    "period": "2週間",
-    "dist": "あああaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "url": "https://google.com"
+    "name": "音響機材リプレース",
+    "img": "/static/doc/product-data/arena-rep/thumbnail.JPG",
+    "category": "other",
+    "form": "数名チーム",
+    "period": "計3日(準備2ヶ月程度)",
+    "tech": "電気, 音響",
+    "dist": ""
 }, {
-    "name": "日本語てすと",
-    "img": "https://alicey.dev/img/icon2.jpg",
-    "category": "server",
+    "name": "PCルームソフトウェア追加",
+    "img": "/static/doc/product-data/pcroom-rep/thumbnail.jpg",
+    "category": "other",
     "form": "個人",
-    "period": "2週間",
-    "dist": "ちゃろー☆",
-    "url": "https://google.com"
+    "period": "1日",
+    "tech": "Windows",
+    "dist": ""
+}, {
+    "name": "吹奏楽PA",
+    "img": "/static/doc/product-data/suibu-pa/thumbnail.JPG",
+    "category": "other",
+    "form": "チーム",
+    "period": "3日(準備1ヶ月程度)",
+    "tech": "PA",
+    "dist": ""
+}, {
+    "name": "ライブPA",
+    "img": "/static/doc/product-data/live-pa/thumbnail.jpg",
+    "category": "other",
+    "form": "チーム",
+    "period": "1日",
+    "tech": "PA(準備1ヶ月程度)",
+    "dist": ""
 }]
