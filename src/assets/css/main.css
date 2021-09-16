@@ -24,6 +24,11 @@ body {
     text-decoration: none;
 }
 
+.category-title {
+    margin-top: 30px;
+    text-transform: capitalize;
+}
+
 .card {
     margin: 1px;
     margin-bottom: 10px;

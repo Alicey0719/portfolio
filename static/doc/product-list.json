@@ -1,12 +1,20 @@
 [{
+    "name": "Portfolio",
+    "img": "/static/doc/product-data/portfolio/thumbnail.png",
+    "category": "programming",
+    "form": "個人",
+    "period": "3週間",
+    "tech": "Vue.js, Vercel",
+    "dist": ""
+}, {
     "name": "Sirius",
     "img": "/static/doc/product-data/sirius/thumbnail.png",
     "category": "programming",
     "form": "設計:チーム, 開発:個人",
     "period": "2週間(開発)",
-    "tech": "Ruby on Rails",
+    "tech": "Ruby on Rails, Heroku",
     "dist": "",
-    "url": "https://sirius-event.herokuapp.com/"
+    "url": "https://github.com/Alicey0719/sirius"
 }, {
     "name": "【2次創作MV】Mili - Ga1ahad and Scientific Witchery",
     "img": "/static/doc/product-data/ga1a/thumbnail.png",
@@ -26,12 +34,12 @@
     "dist": "",
     "url": "https://youtu.be/sqLvPieFAvw"
 }, {
-    "name": "pro4",
-    "img": "https://alicey.dev/img/icon2.jpg",
-    "category": "programming",
-    "form": "個人",
-    "period": "2週間",
-    "tech": "Ruby on Rails",
-    "dist": "あああaaaa",
-    "url": "https://google.com"
+    "name": "なつとらんす",
+    "img": "/static/doc/product-data/natsutoransu/thumbnail.jpg",
+    "category": "other",
+    "form": "チーム",
+    "period": "1年半",
+    "tech": "Editor, Ps, Ai etc...",
+    "dist": "",
+    "url": "https://alipro.alicey.dev/product/natsutoransu/"
 }]

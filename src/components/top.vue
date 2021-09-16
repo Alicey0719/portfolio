@@ -2,7 +2,7 @@
 <div class="content-area container">
     <div class="row product">
         <div v-for="p in ['programming','server', 'movie', 'other']" :key="p">
-            <div>
+            <div class="category-title">
                 <h2>{{p}}</h2>
             </div>
             <div class="row">
