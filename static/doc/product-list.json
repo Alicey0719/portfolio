@@ -38,12 +38,12 @@
     "img": "/static/doc/product-data/natsutoransu/thumbnail.jpg",
     "category": "other",
     "form": "3名チーム",
-    "period": "1年半",
+    "period": "1年半~",
     "tech": "Editor, Ps, Ai etc...",
     "dist": "",
     "url": "https://alipro.alicey.dev/product/natsutoransu/"
 }, {
-    "name": "イベントPA",
+    "name": "イベント運営, PA",
     "img": "/static/doc/product-data/kotonia-pa/thumbnail.jpg",
     "category": "other",
     "form": "チーム(20名程度)",
@@ -80,7 +80,7 @@
     "img": "/static/doc/product-data/suibu-pa/thumbnail.JPG",
     "category": "other",
     "form": "チーム",
-    "period": "3日",
+    "period": "3日(準備1ヶ月程度)",
     "tech": "PA",
     "dist": ""
 }, {
@@ -89,6 +89,6 @@
     "category": "other",
     "form": "チーム",
     "period": "1日",
-    "tech": "PA",
+    "tech": "PA(準備1ヶ月程度)",
     "dist": ""
 }]
