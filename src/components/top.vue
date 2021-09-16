@@ -14,6 +14,7 @@
                                 <p class="card-title">{{item.name}}</p>
                                 <p class="card-form">開発形態 : {{item.form}}</p>
                                 <p class="card-period">開発期間 : {{item.period}}</p>
+                                <p class="card-period">使用技術 : {{item.tech}}</p>
                                 <div class="card-partition"></div>
                                 <p class="card-text">{{ item.dist }}</p>
                             </div>
