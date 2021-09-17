@@ -6,6 +6,7 @@ html {
 body {
     background-color: white;
     margin-bottom: 60px;
+    font-family: 'メイリオ', 'Meiryo', 'ＭＳ ゴシック', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', sans-serif;
 }
 
 #app {
@@ -86,4 +87,37 @@ body {
 .footer-container .text-muted {
     margin: 20px 0;
     color: aliceblue!important
+}
+
+#pagetop {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    margin: 0;
+}
+
+#pagetop a {
+    position: relative;
+    display: flex;
+    width: 65px;
+    height: 65px;
+    justify-content: center;
+    background: rgb(255 166 80);
+    transition: opacity .6s ease;
+    color: #FFF;
+    align-items: center;
+    text-decoration: none;
+    font-size: 32px;
+    border-radius: 100%;
+}
+
+#pagetop a:hover {
+    opacity: .3;
+}
+
+@media screen and (max-width:767px) {
+    #pagetop a {
+        width: 45px;
+        height: 45px;
+    }
 }
