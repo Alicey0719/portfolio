@@ -5,9 +5,9 @@
     "form": "個人",
     "period": "3週間",
     "tech": "Vue.js, Vercel",
-    "dist": ""
+    "dist": "その名の通りポートフォリオです。\n制作目的は、自分の過去を紹介するということももちろんありますが、自己分析の材料として制作した部分が大きいです。\n工夫した点としては、プロダクトの一覧をWebAPIを用いてjsonファイルから読み出している点です。若干遅くはなりますが、メンテナンスが楽になります。"
 }, {
-    "name": "Sirius",
+    "name": "Sirius - イベント管理",
     "img": "/static/doc/product-data/sirius/thumbnail.png",
     "category": "programming",
     "form": "設計:チーム, 開発:個人",
@@ -43,14 +43,63 @@
     "dist": "",
     "url": "https://alipro.alicey.dev/product/natsutoransu/"
 }, {
+    "name": "機械学習基盤構築",
+    "img": "/static/doc/product-data/ml-env/thumbnail.jpg",
+    "category": "other",
+    "form": "個人(8名チームで使用)",
+    "period": "1日",
+    "tech": "Ubuntu, GPU",
+    "dist": "",
+    "url": "https://blog.alicey.dev/2021/08/ubuntu2004dockergpu.html"
+}, {
     "name": "イベント運営, PA",
     "img": "/static/doc/product-data/kotonia-pa/thumbnail.jpg",
     "category": "other",
     "form": "チーム(20名程度)",
     "period": "1日(準備1ヶ月程度)",
-    "tech": "PA",
+    "tech": "PA, Qlab, Au",
     "dist": "",
     "url": "https://www.jrtk.jp/cotoniorgarden/shinkawasaki/info/?p=2032"
+}, {
+    "name": "監視サーバ",
+    "img": "/static/doc/product-data/zabbix/thumbnail.jpg",
+    "category": "server",
+    "form": "個人",
+    "period": "継続5ヶ月目",
+    "tech": "Zabbix, OracleLinux",
+    "dist": ""
+}, {
+    "name": "VDI",
+    "img": "/static/doc/product-data/esxi-vdi/thumbnail.jpg",
+    "category": "server",
+    "form": "個人",
+    "period": "継続1年目",
+    "tech": "Windows, RDGW",
+    "dist": ""
+}, {
+    "name": "プライベートクラウド(SaaS)",
+    "img": "/static/doc/product-data/owncloud/thumbnail.jpg",
+    "category": "server",
+    "form": "個人",
+    "period": "継続4年目",
+    "tech": "ownCloud, CentOS",
+    "dist": ""
+}, {
+    "name": "自宅ネットワーク",
+    "img": "/static/doc/product-data/home-network/thumbnail.jpg",
+    "category": "server",
+    "form": "個人",
+    "period": "継続10年目",
+    "tech": "Network",
+    "dist": ""
+}, {
+    "name": "自宅サーバ",
+    "img": "/static/doc/product-data/lack-server/thumbnail.jpg",
+    "category": "server",
+    "form": "個人",
+    "period": "継続10年目",
+    "tech": "Hardware",
+    "dist": ""
 }, {
     "name": "生徒会室サーバリプレース",
     "img": "/static/doc/product-data/seitokai-server/thumbnail.jpg",
