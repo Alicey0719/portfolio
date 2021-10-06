@@ -17,6 +17,23 @@
     "dist": "大学2年時の授業課題として制作しました。\n企画や設計を4名のグループで行い、コーディングは個人で行うというスタイルの授業で、同じ物用途のものを作る際に人によって大きな差が出ることが面白いと感じました。\n苦労した点は、当然のことを当然にするという部分です。入力データのバリデーションや、一括購入枚数が在庫数を上回った際にロールバックをするなど、想定されない動作をできないようにする部分に労力を使いました。また、始めてのRailsであったため、ファイル名の単数・複数形に悩まされた記憶があります。",
     "url": "https://github.com/Alicey0719/sirius"
 }, {
+    "name": "Android TwitterClient",
+    "img": "/static/doc/product-data/twitter-client/thumbnail.jpg",
+    "category": "programming",
+    "form": "個人",
+    "period": "半年",
+    "tech": "Java, Android",
+    "dist": "高校の卒業研究で制作しました。\n初めて作成したちゃんとしたアプリケーションと呼べる(かわからないけど)ものになります。オブジェクト指向が何なのかもあまり理解していない状態で制作を行い始め、Javaやフラグメント、非同期処理、APIの利用などについて格闘しながら制作しました。\n本来であればStreamingAPIを用いて自動で流れるタイムラインを制作したかったのですが、Twitterの仕様変更により実現不可能となりました。制作前にしっかりと確認しなかったことが反省点です。",
+    "url": "https://github.com/Alicey0719/AliceyTwitterClient"
+}, {
+    "name": "校内ハッカソン",
+    "img": "/static/doc/product-data/kst-hackathon/thumbnail.jpg",
+    "category": "programming",
+    "form": "4名チーム",
+    "period": "5日間",
+    "tech": "Unity, Android",
+    "dist": "高校で開催されたハッカソンでVRホラーゲームを制作しました。私は主に、マップ周りのモデルや処理を担当しました。製作途中で、私とチームメンバのUnityのバージョンが異なっていたことから、マージ後に動作しない状態となり、焦ったことを覚えています。なんとか修正し、小さなハッカソンではありますが優勝を頂くことができました。"
+}, {
     "name": "【2次創作MV】Mili - Ga1ahad and Scientific Witchery",
     "img": "/static/doc/product-data/ga1a/thumbnail.png",
     "category": "movie",
@@ -34,6 +51,22 @@
     "tech": "Ae, Ai, Ps, Cinema4D",
     "dist": "美少女ゲームのOPのような映像が作りたいという憧れがあったため、友人2名に協力をお願いし制作しました。\nOPを作るに当たり、ある程度の世界観や設定を決め、その後映像の制作に取り掛かりました。\n完成度は高くありませんが、憧れを体験した作品となっています。",
     "url": "https://youtu.be/sqLvPieFAvw"
+}, {
+    "name": "学校紹介ムービ制作",
+    "img": "/static/doc/product-data/kst-intro/thumbnail.jpg",
+    "category": "movie",
+    "form": "編集:個人, 撮影:10名",
+    "period": "2ヶ月",
+    "tech": "Ae, Pr, Ps, Au",
+    "dist": "入学を検討している中学生や保護者の方へ、学校の様子を紹介するムービを制作しました。高校が「SHISHAMO」の母校であることから、マネージャさんに楽曲使用許可を頂けたことが印象に残っています。"
+}, {
+    "name": "3年制を送る会 ムービ制作",
+    "img": "/static/doc/product-data/kst-3sou/thumbnail.jpg",
+    "category": "movie",
+    "form": "編集:個人, 撮影:10名",
+    "period": "1ヶ月",
+    "tech": "Ae, Pr, Ps, Au",
+    "dist": "卒業生へ向けた在校生のメッセージをムービとして収めて、卒業式前日にアリーナで全校生徒の前で放映しました。放映後にたくさんの拍手を頂けたことがすごく嬉しく、印象に残っています。"
 }, {
     "name": "なつとらんす",
     "img": "/static/doc/product-data/natsutoransu/thumbnail.jpg",
@@ -116,7 +149,8 @@
     "form": "数名チーム",
     "period": "計3日(準備2ヶ月程度)",
     "tech": "電気, 音響",
-    "dist": "高校のアリーナ(体育館)にある音響機材のリプレースを行いました。\nもともとの機材が古く老朽化していたため、先生方と交渉を重ね、入れ替えができることになりました。\n自分の一存で導入する機材が決まるという裁量権の大きさが面白くもあり、責任感を感じる場面でもありました。"
+    "dist": "高校のアリーナ(体育館)にある音響機材のリプレースを行いました。\nもともとの機材が古く老朽化していたため、先生方と交渉を重ね、入れ替えができることになりました。\n自分の一存で導入する機材が決まるという裁量権の大きさが面白くもあり、責任感を感じる場面でもありました。",
+    "url": "https://youtu.be/TLFsVzMJwZM"
 }, {
     "name": "PCルームソフトウェア追加",
     "img": "/static/doc/product-data/pcroom-rep/thumbnail.jpg",
