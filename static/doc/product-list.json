@@ -143,6 +143,14 @@
     "tech": "WindowsServer",
     "dist": "高校時代の話ですが、生徒会室で利用しているサーバ(File,Print,DHCPなど)が物理的に故障し、リプレースを頼まれました。\n予算があまりなかったことと、校内サーバへ移行するまで1年程度の繋ぎであることから、ハードウェアは秋葉原でジャンク品を調達しました。\nその他の条件はは元の環境に近い状態を保てるよう構築しました。"
 }, {
+    "name": "いろいろやってた賞",
+    "img": "/static/doc/product-data/kst-award/thumbnail.JPG",
+    "category": "other",
+    "form": "個人",
+    "period": "3年間の積み重ね",
+    "tech": "行動力",
+    "dist": "高校三年間、がむしゃらに様々な活動をしてきた結果、卒業時に本来存在しないであろう賞を頂くことができました。"
+}, {
     "name": "音響機材リプレース",
     "img": "/static/doc/product-data/arena-rep/thumbnail.JPG",
     "category": "other",
