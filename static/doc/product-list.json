@@ -8,6 +8,15 @@
     "dist": "その名の通りポートフォリオです。\n制作目的は、自分の過去を紹介するということももちろんありますが、自己分析の材料として制作した部分が大きいです。\n工夫した点としては、プロダクトの一覧をAxiosを用いてjsonファイルから読み出している点です。若干遅くはなりますが、メンテナンスが楽になります。",
     "url": "https://github.com/Alicey0719/portfolio"
 }, {
+    "name": "プライバシーに配慮した混雑情報取得の研究",
+    "img": "/static/doc/product-data/ppc/thumbnail.png",
+    "category": "programming",
+    "form": "8名チーム(PM,環境構築,ヘルプコーディング)",
+    "period": "1年間",
+    "tech": "Python3,Django,TensorFlow,Docker,Linux",
+    "dist": "通年で取り組むプロジェクトという授業でこのテーマを起案し、チームメンバを募集し8名で取り組んで来ました。混雑状況を取得する際に、カメラを使用すると、クラッキング等で画像が取得されてしまう可能性が考えられます。そのため、画像取得時にピントをずらす等の物理的加工を施し、そのぼけた画像から機械学習で混雑度を求める研究となっています。",
+    "url": "https://www.ne.senshu-u.ac.jp/~proj2021-19/"
+}, {
     "name": "Sirius - イベント管理",
     "img": "/static/doc/product-data/sirius/thumbnail.png",
     "category": "programming",
