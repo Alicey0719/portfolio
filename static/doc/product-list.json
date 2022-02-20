@@ -1,4 +1,30 @@
 [{
+    "name": "大学 研究助成アルバイト",
+    "img": "/static/doc/product-data/ishiiken-work/thumbnail.png",
+    "category": "work",
+    "form": "アルバイト",
+    "period": "2週間",
+    "tech": "Python, ML(TF), GCP",
+    "dist": "大学の研究助成として、指定された処理を行うプログラムのコーディングや、クラウドサービス上で動作するようにする設定等を行いました。",
+    "url": "https://pc.fm.senshu-u.ac.jp/~kenta/ja/Authentication/index.html"
+}, {
+    "name": "CA Tech Job Lite (Infra)",
+    "img": "/static/doc/product-data/catechjob/thumbnail.jpeg",
+    "category": "work",
+    "form": "インターン",
+    "period": "2週間",
+    "tech": "Kubernetes, Linux",
+    "dist": "株式会社サイバーエージェントのCIU(全社横断のインフラ組織)で、2週間ほどお世話になりました。\n技術の向上だけでなく、現場の雰囲気やエンジニアとしての働き方の理想を知る等、とても良い経験になったと思います。",
+    "url": "https://www.cyberagent.co.jp/careers/students/event/detail/id=26120"
+}, {
+    "name": "不動産インターン",
+    "img": "/static/doc/product-data/tobira/thumbnail.jpeg",
+    "category": "work",
+    "form": "インターン",
+    "period": "半年間",
+    "tech": "企画, 運営",
+    "dist": "トビラ株式会社で、レンタルスペースを活用した映画上映によるコミュニティ活性化や、その他街に関わるイベントの企画・運営を行いました。"
+}, {
     "name": "Portfolio",
     "img": "/static/doc/product-data/portfolio/thumbnail.png",
     "category": "programming",
