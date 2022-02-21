@@ -12,9 +12,11 @@
         </div>
 
         <div class="content">
-            <h2>得意な言語</h2>
+            <h2>比較的得意な技術</h2>
             <ul>
                 <li>Python</li>
+                <li>Kubernetes</li>
+                <li>Network</li>
             </ul>
         </div>
 
